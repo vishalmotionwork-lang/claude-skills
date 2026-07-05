@@ -1,0 +1,12 @@
+# python venvs the skills bootstrap on first run
+**/.chatgpt-transcript-venv/
+**/__pycache__/
+*.pyc
+
+# transcription outputs
+*.chatgpt.txt
+*.chatgpt.json
+*.chatgpt.progress.json
+
+# os cruft
+.DS_Store

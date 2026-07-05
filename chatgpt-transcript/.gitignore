@@ -1,0 +1,12 @@
+# venv the wrapper bootstraps on first run
+scripts/.chatgpt-transcript-venv/
+__pycache__/
+*.pyc
+
+# transcription outputs
+*.chatgpt.txt
+*.chatgpt.json
+*.chatgpt.progress.json
+
+# os cruft
+.DS_Store
