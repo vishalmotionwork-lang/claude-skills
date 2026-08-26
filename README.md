@@ -8,6 +8,7 @@ Each subfolder is a self-contained skill — copy the one you want into your
 |-------|--------------|---------|
 | [`chatgpt-transcript`](./chatgpt-transcript) | Transcribe local audio/video with **ChatGPT's own voice-to-text** (`gpt-4o-transcribe`) via your logged-in **browser session** — no API key or cost. Chunks long audio, recovers ASR loops, resumes on rate-limit. Strong on Hindi/Gujarati/Hinglish. | MIT |
 | [`skill-creator`](./skill-creator) | Anthropic's official skill for **creating, editing, evaluating, and benchmarking** skills. Redistributed unmodified — see its [ATTRIBUTION](./skill-creator/ATTRIBUTION.md). | Apache-2.0 |
+| [`creator-reverse-engineer`](https://github.com/vishalmotionwork-lang/creator-reverse-engineer) **↗ own repo** | Reverse-engineer any public Instagram creator into **one HTML document**: every post fetched, every reel transcribed and scene-cut, all their platforms torn down, the content formula and money machine decoded — ending in a replication plan. Ships a complete worked example. | MIT |
 
 ## Install a single skill
 
